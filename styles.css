@@ -1,0 +1,22 @@
+body { padding-top: 50px; }
+
+.jumbotron {
+    background-image: url("images/buddy_guitar.png");
+    background-repeat: no-repeat;
+    background-position: 440px 0px;
+}
+
+.socialicons {
+    font-size: 1.5em;
+}
+
+.content {
+    padding: 40px;
+}
+
+.seasons {
+    margin-top: 20px;
+    margin-left: 18px;
+}
+
+
